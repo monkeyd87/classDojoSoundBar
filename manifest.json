@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "classdojo sound board",
+    "description": "Classdojo sound board",
+    "version": "1.0",
+    "action": {
+      "default_popup": "pop.html",
+      "default_icon": "hello_extensions.png"
+    }
+  } 
