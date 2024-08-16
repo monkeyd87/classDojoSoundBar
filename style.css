@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+
+}
+
+button{
+    border-radius: 8px;
+    color:white;
+    border:none;
+    
+
+
+
+
+    
+}
+
+main{
+    display: flex;
+    width: 300px;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+button.pos{
+    background-color:rgb(19, 128, 58);
+}
+
+button.neg{
+    background-color:rgb(217, 34, 24)
+
+}
