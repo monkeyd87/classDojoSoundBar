@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "Play Sound Button",
+    "name": "ClassDojo SoundBoard",
     "version": "1.0",
-    "description": "Adds a button to the page to play sound using soundManager.play('n') from the website.",
+    "description": "Allow you to play points sound without giving or taking points.",
     "permissions": [
       "activeTab",
       "scripting"
